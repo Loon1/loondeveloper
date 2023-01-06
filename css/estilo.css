@@ -1,0 +1,114 @@
+
+ *{
+ 	font-family:"inter" ;
+ 	font-size: 18px;
+ }
+
+
+.caixalateral{
+	background: #00001a ;
+	color: white;
+	padding: 20px 30px 10px 30px;
+
+}
+
+.caixalateral h3{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.caixa {
+	
+	border-top: 1px solid;
+	padding: 30px 0px;
+
+}
+
+.caixaprimeiro {
+	border-top: none;
+	padding: 30px 0px;
+}
+
+.news{
+	color: #d9a454;
+}
+
+.body {
+	
+	background: #fefdf9;
+	padding: 15px;
+}
+
+.numero {
+
+
+
+}
+
+.interbold {
+
+	font-family:"Inter";
+	font-size: 55px;
+	font-weight: bold;
+	color: black;
+	letter-spacing: 1px;
+	line-height: 95%;
+
+}
+
+h2.caixarodape{
+	font-size: 20px;
+	font-weight: bold;
+
+}
+
+.caixalateral a {
+	text-decoration: none;
+	color: white;
+}
+
+.caixalateral a:hover {
+	text-decoration: none;
+	color: #d9a454;
+}
+
+.sec2 a{
+	text-decoration: none;
+	color: black;
+}
+
+.sec2 a:hover{
+	background: #fffcef;
+}
+
+ 
+.sec2 a:hover h2{
+	color: red;
+}
+
+.navbar .container a:hover{
+	color: red;
+}
+
+.btn-col {
+  padding: 15px;
+  color: #fff;
+  background-color: #f15e54;
+  border-color: black;
+  font-weight: bold;.
+  letter-spacing: 0.05em;
+  border-radius: 0;
+  letter-spacing: 3px;
+  text-decoration: none;
+}
+
+
+.btn-col:hover{
+
+background-color: #00001a;
+}
+
+@font-face{
+	font-family: inter;
+	src: url(../fonts/Inter.ttf);
+}
